@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc4d6bd1-dbb9-4aad-9d13-7fb78051768b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_mall" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_mall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mybatis_mall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mall: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\project_utils\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/project_utils/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\project_utils\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YeFdJ2PcfBGetzi0UHDKLAkI2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.banyuan.mall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\mall\src\main\java\com\banyuan\mall\tiny\common" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/admin/login" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banyuan.mall.tiny.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banyuan.mall.tiny.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.1013269" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc4d6bd1-dbb9-4aad-9d13-7fb78051768b" name="Default Changelist" comment="" />
+      <created>1583288412041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583288412041</updated>
+      <workItem from="1583288416774" duration="2672000" />
+      <workItem from="1583295242290" duration="753000" />
+      <workItem from="1583298602964" duration="87000" />
+      <workItem from="1583298698906" duration="4000" />
+      <workItem from="1583298715322" duration="71000" />
+      <workItem from="1583302934636" duration="18000" />
+      <workItem from="1583307379084" duration="9988000" />
+      <workItem from="1583335103437" duration="7108000" />
+      <workItem from="1583388062823" duration="27061000" />
+      <workItem from="1583509562517" duration="893000" />
+      <workItem from="1583556553803" duration="7204000" />
+      <workItem from="1583569814222" duration="15760000" />
+      <workItem from="1583672001554" duration="8636000" />
+      <workItem from="1583758847086" duration="18949000" />
+      <workItem from="1583845314983" duration="2868000" />
+      <workItem from="1583853677350" duration="4447000" />
+      <workItem from="1583899732699" duration="11749000" />
+      <workItem from="1584123888602" duration="4000" />
+      <workItem from="1584500964172" duration="2352000" />
+      <workItem from="1584506013228" duration="9935000" />
+      <workItem from="1584517293612" duration="2657000" />
+      <workItem from="1584584780076" duration="2289000" />
+      <workItem from="1584716262189" duration="10771000" />
+      <workItem from="1584805519589" duration="9613000" />
+      <workItem from="1584853154744" duration="1131000" />
+      <workItem from="1584952914161" duration="2120000" />
+      <workItem from="1585468630621" duration="2489000" />
+      <workItem from="1585535462871" duration="2201000" />
+      <workItem from="1585545094181" duration="1330000" />
+      <workItem from="1585554367674" duration="2094000" />
+      <workItem from="1585572452441" duration="1899000" />
+      <workItem from="1585619170625" duration="9974000" />
+      <workItem from="1585850157230" duration="5603000" />
+      <workItem from="1585886352234" duration="29000" />
+      <workItem from="1585887198692" duration="6631000" />
+      <workItem from="1585965773532" duration="6683000" />
+      <workItem from="1585978252255" duration="8995000" />
+      <workItem from="1586179542575" duration="32000" />
+      <workItem from="1586753253872" duration="2630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mall" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="357" key="#Notifications" />
+    <state x="872" y="357" key="#Notifications/0.0.2560.1400@0.0.2560.1400" />
+    <state x="1060" y="454" key="FileChooserDialogImpl" />
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" />
+    <state x="781" y="331" key="SettingsEditor" />
+    <state x="781" y="331" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" />
+    <state x="960" y="522" key="com.intellij.ide.util.TipDialog" />
+    <state x="960" y="522" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((String)((AnnotationConfigServletWebServerApplicationContext)context).displayName).value" custom="org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext,java.lang.String" />
+        <watch expression="bd" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
